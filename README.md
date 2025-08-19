@@ -8,6 +8,8 @@
 
 ---
 
+LIVE LINK-->  https://ultra-visual-data-analysis.streamlit.app/
+
 > Transform your raw Excel or CSV data into stunning, interactive dashboards and actionable insights—no code required. This powerful Streamlit application provides a comprehensive suite for data profiling, quality assessment, and advanced visualization.
 
 This tool is designed for data analysts, business professionals, students, and anyone who wants to quickly understand and visualize their datasets without writing complex scripts. Just upload your file and let the AI-powered analytics guide you.
