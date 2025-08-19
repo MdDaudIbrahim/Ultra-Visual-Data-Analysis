@@ -1,0 +1,26 @@
+# Requirements file for Excel Data Analyzer
+
+# Core data processing libraries
+pandas>=2.0.0
+numpy>=1.24.0
+openpyxl>=3.1.0
+xlsxwriter>=3.1.0
+
+# Web framework
+streamlit>=1.28.0
+
+# Visualization libraries
+plotly>=5.15.0
+seaborn>=0.12.0
+matplotlib>=3.7.0
+
+# Statistical analysis
+scipy>=1.11.0
+
+# Image processing for chart exports
+kaleido>=0.2.1
+
+# Additional utilities
+python-dateutil>=2.8.2
+pytz>=2023.3
+scikit-learn>=1.3.0
